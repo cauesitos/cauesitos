@@ -1,5 +1,5 @@
 ## oi gente meu nome e caue
--estudando javascript, c# (Unity engine), lua (Roblox Studio), flutter
+-estudando javascript, c# (Unity engine), lua (Roblox Studio)
 <br>
 -programador full-stack
 <br>
